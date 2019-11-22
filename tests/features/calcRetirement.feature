@@ -19,7 +19,6 @@ Feature: Calculate retirement age
       | 1959      | 66      | 10       |
       | 1954      | 66      | 0        |
       | 1999      | 67      | 0        |
-      | 2020      | -1      | -1       |
 
 
 
